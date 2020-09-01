@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "1ec1c6a1135f3a70e1f191a1cb566822e3f3ffe9bd65bb46a0ff6e21b3b5142a"
+            "sha256": "2150d6dd6396d27af7dfe0c23acba019981ea4ade73c5f1a10068f81cbf0ccb0"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -15,8 +15,7 @@
             }
         ]
     },
-    "default": {},
-    "develop": {
+    "default": {
         "findspark": {
             "hashes": [
                 "sha256:4eeb6d831b28cb869da8f4f1a24eb7ff1b51f11c17e44a713fedc9556ab2ccfe",
@@ -62,5 +61,6 @@
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==1.15.0"
         }
-    }
+    },
+    "develop": {}
 }
